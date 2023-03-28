@@ -7,7 +7,7 @@
 **영상 링크**
 
 
-(자막을 켜고 시청 부탁드립니다)
+(유튜브 설정에서 자막을 켜고 시청 부탁드립니다. 자막에 구현에 대한 설명이 기술되어 있습니다.)
 
 
 [![Video Label](http://img.youtube.com/vi/_Mnx535KNJo/0.jpg)](https://youtu.be/_Mnx535KNJo)
