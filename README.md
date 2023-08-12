@@ -1,13 +1,13 @@
 # portfolio-unrealengine-tps
-언리얼 엔진 TPS 3인칭 슈터 포트폴리오
+Third-person shooter portfolio using Unreal Engine
 
 # 소개
-언리얼 엔진으로 제작한 TPS 3인칭 슈터 포트폴리오입니다.
+This is a third-person shooter game made with Unreal Engine.
 
-아래 스크린샷을 클릭하면 영상으로 이동합니다.
+Click on the screenshot below to go to the video.
 
 
-유튜브 설정에서 자막을 켜고 시청 부탁드립니다. 자막에 구현에 대한 설명이 기술되어 있습니다.
+Please turn on subtitles in YouTube settings when watching. The subtitles describe how the game was implemented.
 
 
 [![Video Label](http://img.youtube.com/vi/_Mnx535KNJo/0.jpg)](https://youtu.be/_Mnx535KNJo)
